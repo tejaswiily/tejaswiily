@@ -69,13 +69,6 @@ Passionate about building intelligent systems using Machine Learning and data-dr
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejaswiily&theme=tokyo-night"/>
-</p>
-
----
 
 # 📫 Connect With Me
 
