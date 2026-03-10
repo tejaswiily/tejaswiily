@@ -7,7 +7,7 @@
 <h3 align="center">AI/ML Engineer | Machine Learning Developer</h3>
 
 <p align="center">
-Building intelligent systems using machine learning and data.
+Passionate about building intelligent systems using Machine Learning and data-driven insights.
 </p>
 
 <p align="center">
