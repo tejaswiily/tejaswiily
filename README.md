@@ -41,79 +41,26 @@ Building intelligent systems using machine learning and data.
 
 ---
 
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,mongodb,flask,git,github"/>
-
-</p>
-
-**Core Areas**
-
-Machine Learning • NLP • Data Analysis • Backend Development
-
 ---
 
-# 💼 Experience
+# 🧰 Technical Arsenal
 
-### AI Intern — CodTech
-
-Worked on AI and machine learning tasks including model development and data analysis.
-
-* Implemented machine learning solutions using Python
-* Performed data preprocessing and model evaluation
-* Built practical AI applications during internship tasks
+| Domain                    | Stack                                                                                                                                                                                       |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**             | ![Python](https://img.shields.io/badge/Python-blue?logo=python) ![Java](https://img.shields.io/badge/Java-orange?logo=java) ![SQL](https://img.shields.io/badge/SQL-grey)                   |
+| **AI / Machine Learning** | ![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn) ![NLP](https://img.shields.io/badge/NLP-green)                                                           |
+| **Backend & Tools**       | ![Flask](https://img.shields.io/badge/Flask-black?logo=flask) ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb) ![Git](https://img.shields.io/badge/Git-red?logo=git) |
 
 ---
 
 # 🚀 Featured Projects
 
-### 🔐 Intrusion Detection System
-
-Machine learning based system that detects malicious network activity using log analysis.
-
-**Tech Stack:** Python, Scikit-learn, Flask
-
----
-
-### 🛍 Retail Edge
-
-AI-powered retail analytics platform using RAG and NLP for smart search and insights.
-
-**Tech Stack:** Python, NLP
-
----
-
-### 📋 Task Manager
-
-Python-based task management application demonstrating automation and database operations.
-
-**Tech Stack:** Python, SQLite
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tejaswiily&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswiily&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=tejaswiily&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejaswiily&theme=tokyo-night"/>
-</p>
+| Project                                 | Description                                                                                                                  | Tech Stack                  |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| 🔐 **Intrusion Detection System**       | Developed a machine learning based system to detect malicious network activity using log analysis and traffic monitoring.    | Python, Scikit-learn, Flask |
+| 🛍 **Retail Edge**                      | Built an AI-powered retail analytics platform using RAG and NLP to enable intelligent product search and insights.           | Python, NLP                 |
+| 📋 **Task Manager**                     | Created a Python-based task management system demonstrating task automation and database operations.                         | Python, SQLite              |
+| 🤖 **AI Internship Projects (CodTech)** | Implemented machine learning models, performed data preprocessing, and built practical AI solutions during internship tasks. | Python, ML                  |
 
 ---
 
